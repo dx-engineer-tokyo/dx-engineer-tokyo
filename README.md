@@ -1,39 +1,42 @@
 <div align="center">
 
 <!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Darsh%20Gupta&fontSize=60&fontColor=a78bfa&fontAlignY=32&desc=Full-Stack%20Engineer%20%E2%9C%A6%20Building%20Japan's%20Digital%20Future%20with%20AI&descSize=17&descAlignY=52&descColor=c4b5fd&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0508,50:2D0F16,100:1a0a0e&height=250&section=header&text=DX%20Engineer%20Tokyo&fontSize=50&fontColor=DC2638&fontAlignY=32&desc=Darsh%20Gupta%20%E2%9C%A6%20Full-Stack%20Engineer%20%E2%9C%A6%20AI%20%C3%97%20Japan%20DX&descSize=16&descAlignY=52&descColor=FF7882&animation=fadeIn" width="100%" />
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%E2%9A%A1+100+AI-Powered+Projects+for+Japan's+Market;%F0%9F%A4%96+GPT-4+%7C+NLP+%7C+Cloud+%7C+Full-Stack+Engineering;%F0%9F%8C%8A+Digital+Transformation+%C3%97+Artificial+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=DC2638&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%E2%9A%A1+100+AI-Powered+Projects+for+Japan's+Market;%F0%9F%A4%96+GPT-4+%7C+NLP+%7C+Cloud+%7C+Full-Stack+Engineering;%F0%9F%87%AF%F0%9F%87%B5+Digital+Transformation+%C3%97+Artificial+Intelligence" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ═══════════════════ CONTACT BADGES ═══════════════════ -->
-<a href="https://linkedin.com/in/dx-engineer-tokyo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:dx.engineer.tokyo@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
-<a href="https://twitter.com/dx_engineer_jp"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>&nbsp;
-<img src="https://img.shields.io/badge/🗼_Tokyo,_Japan-24243e?style=for-the-badge" alt="Location"/>
+<!-- ═══════════════════ SOCIAL BADGES ═══════════════════ -->
+<a href="https://www.linkedin.com/in/dx-engineer-tokyo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://github.com/dx-engineer-tokyo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="https://x.com/dx_engineer_jp"><img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>&nbsp;
+<a href="https://discord.com/channels/@dx_engineer_tokyo"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>&nbsp;
+<a href="https://qiita.com/dx-engineer-tokyo"><img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita"/></a>&nbsp;
+<a href="https://www.wantedly.com/id/dx_engineer_tokyo"><img src="https://img.shields.io/badge/Wantedly-21BDDB?style=for-the-badge&logo=wantedly&logoColor=white" alt="Wantedly"/></a>&nbsp;
+<a href="mailto:dx.engineer.tokyo@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
-<!-- Profile views -->
-<img src="https://komarev.com/ghpvc/?username=dx-engineer-tokyo&color=a78bfa&style=flat-square&label=Profile+Visitors" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=dx-engineer-tokyo&color=DC2638&style=flat-square&label=Profile+Visitors" alt="Profile Views" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Focus-AI_×_Japan_DX-a78bfa?style=flat-square" alt="Focus"/>
+<img src="https://img.shields.io/badge/Focus-AI_×_Japan_DX-BC002D?style=flat-square" alt="Focus"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Visa-Sponsorship_Required-c4b5fd?style=flat-square" alt="Visa"/>
+<img src="https://img.shields.io/badge/日本のDX推進-🇯🇵-DC2638?style=flat-square" alt="Japan DX"/>
 
 </div>
 
-<!-- ═══════════════════ NEON DIVIDER ═══════════════════ -->
+<!-- ═══════════════════ RED DIVIDER ═══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
 ```yaml
 name: Darsh Gupta
+alias: DX Engineer Tokyo
 location: Tokyo, Japan (open to relocation)
 role: Full-Stack Engineer × AI Builder
 mission: "100 AI-Powered Projects for Japan's Digital Future"
@@ -43,6 +46,12 @@ philosophy:
   - "Every legacy system is an AI upgrade waiting to happen"
   - "Japan's fax machines deserve a GPT-4 powered retirement"
   - "Build for 日本, scale for the 🌏"
+
+identity:
+  - DX = Digital Transformation
+  - Engineer Tokyo = Where I build the future
+  - "dx-engineer-tokyo = my code, my mission, my brand"
+  - "🔴 The red dot = Japan in my DNA"
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -169,15 +178,15 @@ Carbon tracking, Circular economy
 <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="Cloud Skills" />
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-![Japanese NLP](https://img.shields.io/badge/Japanese_NLP-a78bfa?style=flat-square&logo=spacy&logoColor=white)
+![Japanese NLP](https://img.shields.io/badge/Japanese_NLP-BC002D?style=flat-square&logo=spacy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square&logo=probot&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-DC2638?style=flat-square&logo=probot&logoColor=white)
 
 ### 🔧 Tools & Practices
 <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&theme=dark" alt="Tool Skills" />
 
-![SEO](https://img.shields.io/badge/SEO-47C5FB?style=flat-square&logo=google&logoColor=white)
-![Team Leadership](https://img.shields.io/badge/Team_Leadership-FF6F00?style=flat-square&logo=target&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-FFB74D?style=flat-square&logo=google&logoColor=black)
+![Team Leadership](https://img.shields.io/badge/Team_Leadership-BC002D?style=flat-square&logo=target&logoColor=white)
 
 </div>
 
@@ -192,7 +201,7 @@ Carbon tracking, Circular economy
 <td width="50%">
 
 ### 📝 HankoSign Digital
-<img src="https://img.shields.io/badge/🤖_AI--Powered-a78bfa?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤖_AI--Powered-BC002D?style=for-the-badge" />
 
 > E-signature platform replacing traditional Japanese hanko stamps
 
@@ -205,7 +214,7 @@ Carbon tracking, Circular economy
 <td width="50%">
 
 ### 📠 FaxBridge Pro
-<img src="https://img.shields.io/badge/🤖_AI--Powered-a78bfa?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤖_AI--Powered-BC002D?style=for-the-badge" />
 
 > Cloud-based fax integration for legacy Japanese systems
 
@@ -220,7 +229,7 @@ Carbon tracking, Circular economy
 <td width="50%">
 
 ### 🤖 AI Receptionist
-<img src="https://img.shields.io/badge/🤖_AI--Powered-a78bfa?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤖_AI--Powered-BC002D?style=for-the-badge" />
 
 > NLP-powered visitor management system
 
@@ -233,7 +242,7 @@ Carbon tracking, Circular economy
 <td width="50%">
 
 ### 💳 Multi-Pay Integration
-<img src="https://img.shields.io/badge/🤖_AI--Powered-a78bfa?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤖_AI--Powered-BC002D?style=for-the-badge" />
 
 > Unified payment gateway for Japanese payment methods
 
@@ -254,22 +263,26 @@ Carbon tracking, Circular economy
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dx-engineer-tokyo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=c4b5fd&text_color=8b949e&ring_color=a78bfa" height="180" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dx-engineer-tokyo&show_icons=true&hide_border=true&bg_color=0c0508&title_color=DC2638&icon_color=FF7882&text_color=c9d1d9&ring_color=BC002D&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dx-engineer-tokyo&show_icons=true&hide_border=true&bg_color=0c0508&title_color=DC2638&icon_color=FF7882&text_color=c9d1d9&ring_color=BC002D&count_private=true" height="180" alt="GitHub Stats" />
+</picture>
 &nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dx-engineer-tokyo&theme=tokyonight&hide_border=true&background=0f0c29&stroke=302b63&ring=a78bfa&fire=c4b5fd&currStreakLabel=a78bfa&sideLabels=c4b5fd" height="180" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dx-engineer-tokyo&layout=compact&hide_border=true&bg_color=0c0508&title_color=DC2638&text_color=c9d1d9&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dx-engineer-tokyo&layout=compact&hide_border=true&bg_color=0c0508&title_color=DC2638&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages" />
+</picture>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dx-engineer-tokyo&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=a78bfa&line=c4b5fd&point=ffffff&area=true&area_color=302b63" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=dx-engineer-tokyo&hide_border=true&background=0c0508&stroke=2D0F16&ring=BC002D&fire=FFB74D&currStreakLabel=DC2638&sideLabels=FF7882&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+  <img src="https://streak-stats.demolab.com/?user=dx-engineer-tokyo&hide_border=true&background=0c0508&stroke=2D0F16&ring=BC002D&fire=FFB74D&currStreakLabel=DC2638&sideLabels=FF7882&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+</picture>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=dx-engineer-tokyo&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=dx-engineer-tokyo&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="GitHub Trophies" />
 
 </div>
 
@@ -293,28 +306,35 @@ Carbon tracking, Circular economy
 </div>
 
 ### 🏢 Ideal Companies
-> 🔹 Tech companies driving Japan's **digital transformation**
-> 🔹 Startups building **AI/ML products** for the Japan market
-> 🔹 **FinTech**, **HealthTech**, or **HR Tech** companies
-> 🔹 Any team passionate about solving real problems in **🇯🇵 Japan**
+> 🔴 Tech companies driving Japan's **digital transformation**
+> 🔴 Startups building **AI/ML products** for the Japan market
+> 🔴 **FinTech**, **HealthTech**, or **HR Tech** companies
+> 🔴 Any team passionate about solving real problems in **🇯🇵 Japan**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📫 &nbsp;Let's Build Something Amazing Together
+## 📫 &nbsp;Find Me Everywhere
 
 <div align="center">
 
-<a href="https://linkedin.com/in/dx-engineer-tokyo"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="mailto:dx.engineer.tokyo@gmail.com"><img src="https://img.shields.io/badge/Gmail-Drop_me_a_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/dx_engineer_jp"><img src="https://img.shields.io/badge/Twitter-Follow_me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://www.linkedin.com/in/dx-engineer-tokyo/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://github.com/dx-engineer-tokyo"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="https://x.com/dx_engineer_jp"><img src="https://img.shields.io/badge/𝕏-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>&nbsp;
+<a href="https://discord.com/channels/@dx_engineer_tokyo"><img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20Japan%27s%20digital%20future%20is%20to%20build%20it%20with%20AI.&author=Darsh%20Gupta" alt="Quote" />
+<a href="https://qiita.com/dx-engineer-tokyo"><img src="https://img.shields.io/badge/Qiita-Articles-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita"/></a>&nbsp;
+<a href="https://www.wantedly.com/id/dx_engineer_tokyo"><img src="https://img.shields.io/badge/Wantedly-Profile-21BDDB?style=for-the-badge&logo=wantedly&logoColor=white" alt="Wantedly"/></a>&nbsp;
+<a href="mailto:dx.engineer.tokyo@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20Japan%27s%20digital%20future%20is%20to%20build%20it%20with%20AI.&author=DX%20Engineer%20Tokyo" alt="Quote" />
 
 <br/><br/>
 
 <!-- ═══════════════════ ANIMATED FOOTER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=footer&fontSize=0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0508,50:2D0F16,100:1a0a0e&height=150&section=footer&fontSize=0" width="100%" />
 
 </div>
