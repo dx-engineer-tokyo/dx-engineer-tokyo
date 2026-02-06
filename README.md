@@ -5,7 +5,7 @@
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=DC2638&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%E2%9A%A1+100+AI-Powered+Projects+for+Japan's+Market;%F0%9F%A4%96+GPT-4+%7C+NLP+%7C+Cloud+%7C+Full-Stack+Engineering;%F0%9F%87%AF%F0%9F%87%B5+Digital+Transformation+%C3%97+Artificial+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=DC2638&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%E2%9A%A1+100+AI-Powered+Projects+for+Japan's+Market;%F0%9F%A4%96+AI+%7C+NLP+%7C+Cloud+%7C+Full-Stack+Engineering;%F0%9F%87%AF%F0%9F%87%B5+Digital+Transformation+%C3%97+Artificial+Intelligence" alt="Typing SVG" />
 </a>
 
 <br/>
